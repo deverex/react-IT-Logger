@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "message": "Changed network card at server 007",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2019-12-30T08:38:19.041Z",
+      "id": 1
+    },
+    {
+      "message": "Hard drive fail at system 007",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2019-12-30T08:38:45.324Z",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "message": "Monitor fixed on system 060",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2019-12-30T14:12:30.175Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
